@@ -236,31 +236,11 @@ npm install
 ├── routes/
 │   ├── enrollment.js     # Student APIs
 │   └── admin.js          # Admin APIs
-├── schema.sql            # Database setup
-├── server.js             # Express app
-├── setup.js              # Auto-setup
+├── dbSchema.sql            # Database setup
+├── app.js             # Express app
 ├── package.json          # Dependencies
 └── .env                  # Configuration
 ```
-
----
-
-## Next Steps
-
-1. ✅ Test all endpoints with provided examples
-2. ✅ Read `API_EXAMPLES.md` for detailed testing
-3. ✅ Check `README.md` for full documentation
-4. ✅ Review `ASSIGNMENT_SUMMARY.md` for implementation details
-5. ✅ Import Postman collection for GUI testing
-
----
-
-## Need Help?
-
-- **Full Documentation**: See `README.md`
-- **API Examples**: See `API_EXAMPLES.md`
-- **Assignment Details**: See `ASSIGNMENT_SUMMARY.md`
-- **Database Schema**: See `schema.sql`
 
 ---
 
@@ -272,9 +252,3 @@ npm run dev
 ```
 
 Requires nodemon (included in devDependencies).
-
----
-
-**That's it! You're ready to go! 🚀**
-
-The system is running with sample data. Try the test scenarios above to see it in action!
