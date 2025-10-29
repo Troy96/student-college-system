@@ -1,7 +1,5 @@
 # Quick Start Guide
 
-Get the Student Course Enrollment System running in 5 minutes!
-
 ## Prerequisites
 
 - Node.js (v14+) installed
